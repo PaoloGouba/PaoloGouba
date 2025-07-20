@@ -39,7 +39,7 @@
 
 - ✉️ Email: [info@paologouba.com](mailto:info@paologouba.com)
 - 🧵 Linkedin: [@paologouba](https://linkedin.com/in/paologouba)
-- 🌐 Portfolio (soon): [Here](https://paologouba.com)
+- 🌐 Portfolio: [Here](https://paologouba.com)
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/paologouba?style=social)
