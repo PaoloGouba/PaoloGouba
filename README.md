@@ -14,7 +14,7 @@
 - 🧩 Support pre-sales & custom onboarding with **technical expertise**
 - 🤝 Act as a bridge between dev teams, clients and business units
 - 🔧 Build small internal tools to speed up processes & reduce manual work
-- 🛠 Technologies used: `Python`, `Cloud`, `ETL`, `API REST`, `SQL`, `Salesforce`, `HubSpot`, `VoIP`, `Postman`, `Data Integration`
+- 🛠 Technologies used: `Python`, `Cloud`, `API REST`, `SQL`, `CRM`, `VoIP`,`Data Integration`
 
 ---
 
