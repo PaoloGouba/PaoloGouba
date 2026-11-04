@@ -1,8 +1,7 @@
 # Hey, I'm Paolo 👋
 **Applied AI & Integration Engineer**
 
-I'm a **Senior Field Deployment Engineer at Compri**, an AI procurement SaaS based in Milan.
-I take AI products from demo to production inside real companies: connecting ERPs, e-commerce platforms and internal tools, then making the whole thing run reliably.
+I work on **software integration and AI**: taking AI products from demo to production inside real companies, connecting ERPs, e-commerce platforms and internal tools, then making the whole thing run reliably.
 
 ---
 
