@@ -1,46 +1,36 @@
-# Hey, I'm Paolo 👋  
-**Integration Engineer · Building useful tools in my spare time**
+# Hey, I'm Paolo 👋
+**Applied AI & Integration Engineer**
 
-🔗 I work as a **Technical Integration Specialist** in the SaaS industry, helping connect systems, APIs and workflows to deliver real business value.  
-⚙️ I’ve integrated tools like **Salesforce, HubSpot, Zoho, Zendesk**, and custom VoIP software — bridging product, engineering and client needs.  
-🧠 On the side, I build lean tools to automate painful tasks and experiment with ideas — mainly in **AI automation, data compliance, and e-commerce**.
-
+I'm a **Senior Field Deployment Engineer at Compri**, an AI procurement SaaS based in Milan.
+I take AI products from demo to production inside real companies: connecting ERPs, e-commerce platforms and internal tools, then making the whole thing run reliably.
 
 ---
 
-## 💼 What I do (professionally)
+## 💼 What I do
 
-- 🔌 Design & implement **B2B integrations** between SaaS tools (E-Commerce, CRM, AI Agents…)
-- 🧩 Support pre-sales & custom onboarding with **technical expertise**
-- 🤝 Act as a bridge between dev teams, clients and business units
-- 🔧 Build small internal tools to speed up processes & reduce manual work
-- 🛠 Technologies used: `Python`, `Cloud`, `API REST`, `SQL`, `CRM`, `VoIP`,`Data Integration`
+- 🤖 Deploy and integrate **AI solutions** in real business workflows
+- 🔌 Build **B2B integrations** between ERPs, e-commerce platforms, PIMs and SaaS tools
+- 🧩 Lead technical onboarding and work closely with clients, product and engineering
+- ⚙️ Automate data pipelines and the manual work nobody wants to do
 
----
-
-## 🚀 What I build (as side projects)
-
-| Project | What it does | Stack |
-|--------|---------------|-------|
-| **[GDPR Audit Pro](https://gdprauditpro.com)** | Freemium tool to check if a website is GDPR-compliant. | `FastAPI`,`Playwright`,`PydanticAI`,`META LLM` |
-| **[SalesPilot AI](https://gdprauditpro.com/paologouba/salespilot)** | Generates cold outreach emails from a CSV of leads. | `LLM`, `FastAPI`, `Scraping`, `SMTP` |
-| **ContentPilot AI** *(Soon)* | Produces blog articles in 3 languages. | `LLM`, `Multilingual`, `SEO` |
-
-> 💡 Some are available publicly as MVPs. Feedback is always welcome.
+**Background:** sales → data integration → solution consulting at **Mirakl** (AI price-recommendation models for marketplaces) → integration management → FDE.
+Previously at **Mirakl**, **Beezup**, **Axialys** and **Izipizi** — across SaaS, e-commerce, fashion retail and VoIP.
 
 ---
 
-## 📦 Tech I like using
-`Python` · `FastAPI` · `Streamlit` · `PostgreSQL/SQLite` · `XSLT` · `ETL` · `Zapier` · `HubSpot` · `APIs` · `LLMs` · `Docker` · `GCP` · `BigQuery` · `Notion` · `Slack` · `Git`
+## 🛠 Stack
+
+`Python` · `FastAPI` · `Prefect` · `REST / OAuth APIs` · `SAP Business ByDesign` · `Shopify GraphQL` · `Plytix` · `SQL` · `LLMs` · `Docker` · `GCP` · `Git`
+
+---
+
+## 🌍 Languages
+
+Italian · French · English · learning Spanish
 
 ---
 
 ## 👀 Where to find me
 
-- ✉️ Email: [info@paologouba.com](mailto:info@paologouba.com)
-- 🧵 Linkedin: [@paologouba](https://linkedin.com/in/paologouba)
-- 🌐 Portfolio: [Here](https://paologouba.com)
-
----
-![GitHub followers](https://img.shields.io/github/followers/paologouba?style=social)
-![GitHub stars](https://img.shields.io/github/stars/paologouba?style=social)
+- ✉️ [info@paologouba.com](mailto:info@paologouba.com)
+- 💼 [LinkedIn](https://linkedin.com/in/paologouba)
